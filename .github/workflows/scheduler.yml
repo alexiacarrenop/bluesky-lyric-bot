@@ -2,9 +2,8 @@ name: Run Bluesky Bot
 
 on:
   schedule:
-    # This tells GitHub to run your script every single day at 10:30 AM UTC
-    - cron: '30 10 * * *'
-  workflow_dispatch: # Added the missing colon here
+    - cron: '35 12 * * *'
+  workflow_dispatch: 
 
 jobs:
   post-quote:
