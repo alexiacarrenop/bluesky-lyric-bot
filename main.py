@@ -1,5 +1,3 @@
-import schedule
-import time
 import db_manager
 from config import client
 
