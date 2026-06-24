@@ -2,7 +2,7 @@ name: Run Bluesky Bot
 
 on:
   schedule:
-    - cron: '35 12 * * *'
+    - cron: '53 23 * * *'
   workflow_dispatch: 
 
 jobs:
