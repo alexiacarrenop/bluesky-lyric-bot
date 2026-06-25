@@ -53,7 +53,60 @@ with a taste of nectar upon his lips'),
 
 ('to know how it ends and still begin to sing it again
 as if it might turn out this time
-i learnt that from a friend of mine');
+i learnt that from a friend of mine'),
+                
+('do you ever feel so alone that you could implode and no one would know?'),
+
+('searching for a bloodstain, bandages are clean
+baby, take it easy following a whim
+listen how the heart beats lying next to him'),
+
+('sunshine through the curtain, music in my head
+still be singing to you long after we’re dead'),
+
+('here come my genie in a screw cap bottle
+to grant me temporary solace
+i could never be without her
+i had to write a song about her
+who am i without you now?'),
+
+('my final act of love was surrender'),
+
+('sung over the bones of you and I
+words spun into daisy wheels in my mind
+i am vasilisa, guide me through the night
+nothing more will enter me but light'),
+
+('i can''t heal, you keep ripping me open
+i can''t feel you, keep ripping me open'),
+
+('every now and then in a far off land
+familiar but foreign, a liminal feeling
+i know you know me now like the back of your hand
+but can I still get your heart reeling?'),
+
+('stranded here on mars
+what''s the odds you''d get stuck here too?'),
+
+('come hell or heaven, angels or devils
+i won''t move
+and I don''t care what happens after
+i won''t quit on you'),
+
+('chaos-ridden inner space
+turns out home is not a place
+when I think home, I see your face'),
+
+('chaos reaches outer space
+turns out nowhere is a place
+desire, tidal wave, i can''t tame it
+i''m not a water bender, can''t change it
+i''m thinking maybe i need a surfboard 
+just gotta ride it out, get it all out
+when you''re not mine, am i allowed?'),
+
+('you could call me miss paramour
+fate’s got a funny way, baby');
     """)
     con.commit()
 
